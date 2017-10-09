@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="error_message">Error loading movie data. Please try again</string>
+    <string name="avg_rating">Average rating</string>
+    <string name="sort_by">Sort by</string>
+    <string name="popular_sort">Most popular</string>
+    <string name="rating_sort">Highest rating</string>
+</resources>
